@@ -36,11 +36,10 @@ Edit
 🔑 Login Screen
 
 🏠 Home Screen 
-![home](https://github.com/user-attachments/assets/ebd4c72d-9621-45b5-aef0-4900f9b12ee1)
-📖 Mood History Screen – List of mood entries with timestamps
-![mood](https://github.com/user-attachments/assets/c5898627-510f-4d19-9b08-52e059dac306)
-📈 Mood Stats Screen – Donut chart visualizing mood distribution
-![stat](https://github.com/user-attachments/assets/f652cd2f-dda4-4711-b9fa-22daf5edeb42)
+📖 Mood History Screen 
+📈 Mood Stats Screen 
+![Screenshot 2025-06-04 104124](https://github.com/user-attachments/assets/ad5034dc-daa2-4a05-baa4-ecdd04b4cd64)
+
 
 🎥 Video Demo
 📺 Watch the Demo:
